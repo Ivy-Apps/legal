@@ -9,7 +9,7 @@ The Service is developed and distributed by Ivy Apps EOOD ("we," "our," "us"), a
 
 ## 1. Acceptance of Terms
 
-By using the Service, you affirm that you are at least 18 years old or have obtained verifiable parental consent if you are under 18. We may request proof of age or consent at any time. You agree to abide by these Terms, our Privacy Policy, and any additional policies we provide.
+By using the Service, you affirm that you are at least 18 years old or have obtained verifiable parental consent if you are under 18. We may request proof of age or consent at any time. You agree to abide by these Terms, our [Privacy Policy](https://github.com/Ivy-Apps/legal/blob/main/ivy-learn-privacy.md), and any additional policies we provide.
 
 ## 2. User Accounts
 
@@ -59,7 +59,7 @@ We will respond to your request within 30 days, as required by GDPR.
 - We obtain your explicit consent for the use of non-essential cookies and analytics during account creation.  
 - You can manage your cookie preferences at any time in the Settings > Privacy section of the Service.
 
-By using the Service, you agree to our use of cookies in accordance with our Privacy Policy.  
+By using the Service, you agree to our use of cookies in accordance with our [Privacy Policy](https://github.com/Ivy-Apps/legal/blob/main/ivy-learn-privacy.md).  
 We comply with GDPR requirements for users in the European Economic Area (EEA).
 
 ## 7. User Responsibilities
