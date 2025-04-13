@@ -30,8 +30,6 @@ We use Google Firebase services to collect limited and anonymized technical data
 
 This data is anonymized and **does not include personally identifiable information**.
 
-**Anonymized Data and Re-identification Risk:** While we use state-of-the-art anonymization techniques, the possibility of re-identification of anonymized data cannot be completely eliminated. We are committed to regularly reviewing and updating our anonymization methods to mitigate this risk.
-
 ---
 
 ## 2. How We Use Data
