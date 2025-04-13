@@ -88,10 +88,8 @@ To make a CCPA request, email us at iliyan.germanov971@gmail.com.
 
 - Data you provide (API key, prompts, context) is stored only locally on your device and may be deleted at your discretion.
 - Anonymized analytics and crash data are retained only as long as necessary for:
-  - Diagnostics and product improvement (typically up to 24 months).
+  - Diagnostics and product improvement.
   - Legal and regulatory compliance.
-
-We will delete anonymized data after [24] months unless we are required to retain it for legal or regulatory purposes.
 
 ---
 
