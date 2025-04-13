@@ -9,7 +9,7 @@ Welcome to PocketVibe, developed and distributed by **Ivy Apps Ltd** (“we,” 
 
 ## 1. Acceptance of Terms
 
-By using the App, you confirm that you are at least 18 years old or have obtained verifiable parental consent. You agree to be legally bound by these Terms and our [Privacy Policy](https://github.com/Ivy-Apps/legal), which governs data collection practices including via Firebase Analytics and Firebase Crashlytics.
+By using the App, you confirm that you are at least 18 years old or have obtained verifiable parental consent. You agree to be legally bound by these Terms and our [Privacy Policy](https://github.com/Ivy-Apps/legal/pocketvibe-privacy), which governs data collection practices including via Firebase Analytics and Firebase Crashlytics.
 
 ---
 
