@@ -1,7 +1,7 @@
 # PocketVibe Privacy Policy
 
 **Effective Date:** April 13, 2025  
-**Last Updated:** April 13, 2025  
+**Last Updated:** [Insert Date of Update]
 
 Welcome to PocketVibe, an Android app developed and distributed by **Ivy Apps Ltd** ("we", "us", or "our"). We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains what information we collect, how we use it, and the choices you have.
 
@@ -21,12 +21,16 @@ This information is used **only within the app** and is **not transmitted to Ivy
 
 You are solely responsible for the content you input into the App, including any personal, sensitive, or confidential information. Ivy Apps Ltd does **not monitor, collect, or store** this information.
 
+**Important Security Note Regarding API Keys:** You are solely responsible for the security of your API key. We strongly recommend that you generate a separate, limited-access API key specifically for use with PocketVibe. Do not use your primary API key.
+
 ### 1.2 Automatically Collected Information  
 We use Google Firebase services to collect limited and anonymized technical data:
 - **Firebase Analytics**: gathers app usage patterns and basic device data (e.g., device type, session duration).
 - **Firebase Crashlytics**: collects crash logs and technical diagnostics to improve app stability.
 
 This data is anonymized and **does not include personally identifiable information**.
+
+**Anonymized Data and Re-identification Risk:** While we use state-of-the-art anonymization techniques, the possibility of re-identification of anonymized data cannot be completely eliminated. We are committed to regularly reviewing and updating our anonymization methods to mitigate this risk.
 
 ---
 
@@ -65,6 +69,8 @@ If you are located in the European Economic Area (EEA), you have the following r
 
 To exercise these rights, please contact us at iliyan.germanov971@gmail.com. We will respond within 30 days.
 
+**Verification of GDPR Requests:** To protect your privacy, we will take reasonable steps to verify your identity before fulfilling any GDPR requests. This may include requesting additional information to confirm your identity.
+
 ---
 
 ## 5. Your Rights Under CCPA (California)
@@ -76,14 +82,18 @@ If you are a California resident, you may:
 
 To make a CCPA request, email us at iliyan.germanov971@gmail.com.
 
+**Definition of "Sale" under CCPA:**  We do not sell your personal information as defined by the CCPA. While we share anonymized analytics data with Firebase, we do not believe this constitutes a "sale" under the CCPA because the data is anonymized and does not directly identify you. We continually review our data practices to ensure compliance with the CCPA's evolving definition of "sale."
+
 ---
 
 ## 6. Data Retention
 
 - Data you provide (API key, prompts, context) is stored only locally on your device and may be deleted at your discretion.
 - Anonymized analytics and crash data are retained only as long as necessary for:
-  - Diagnostics and product improvement.
+  - Diagnostics and product improvement (typically up to 24 months).
   - Legal and regulatory compliance.
+
+We will delete anonymized data after [24] months unless we are required to retain it for legal or regulatory purposes.
 
 ---
 
@@ -97,13 +107,13 @@ We take reasonable measures to protect the security of the App and any data proc
 
 ## 8. Children's Privacy
 
-PocketVibe is not directed to children under 13. We do not knowingly collect data from children. If we learn that we have inadvertently collected personal data from a child, we will delete it promptly.
+PocketVibe is not directed to children under 13. We do not knowingly collect data from children. All users are required to confirm they are over 13 before using the app. If we learn that we have inadvertently collected personal data from a child, we will delete it promptly.
 
 ---
 
 ## 9. International Transfers
 
-All data is processed in accordance with applicable data protection laws, including GDPR. Firebase services may store anonymized data in data centers outside the EU. We rely on Google’s adherence to standard contractual clauses and relevant safeguards.
+All data is processed in accordance with applicable data protection laws, including GDPR. Firebase services may store anonymized data in data centers outside the EU. We rely on Google’s adherence to standard contractual clauses (SCCs) and relevant safeguards as approved by the European Commission for transfers of personal data to countries outside the EEA. Specifically, we rely on the SCCs incorporated into the Google Cloud Data Processing Addendum. You can find more information about Google's data protection measures and obtain a copy of the SCCs at [Link to Google Cloud's Data Processing Addendum].
 
 ---
 
@@ -119,7 +129,7 @@ We recommend you review the privacy policies and terms of use of any third-party
 
 ## 11. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. Changes will be communicated via the app or our website. Continued use of the app after changes take effect constitutes your agreement to the revised policy.
+We may update this Privacy Policy from time to time. We will notify you of any material changes to this Privacy Policy by in-app notification and/or email (if you have provided us with your email address). We will also update the "Last Updated" date at the top of this Privacy Policy. Continued use of the app after changes take effect constitutes your agreement to the revised policy.
 
 ---
 
@@ -129,6 +139,4 @@ For privacy questions or to exercise your rights, contact us at:
 
 **Ivy Apps Ltd**  
 Email: iliyan.germanov971@gmail.com  
-Address: БЪЛГАРИЯ, гр. София, р-н Подуяне, ул. Б. Петков, бл. 84, вх. Б, ет. 5  
-
----
+Address: БЪЛГАРИЯ, гр. София, р-н Подуяне, ул. Б. Петков, бл. 84, вх. Б, ет. 5
