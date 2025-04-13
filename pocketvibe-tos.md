@@ -25,6 +25,7 @@ By using the App, you confirm that you are at least 18 years old or have obtaine
     - Paying all charges, overages, or third-party fees associated with LLM API usage.
 - **Ivy Apps Ltd strongly recommends using LLM API keys with rate limiting and spending caps to prevent unexpected charges. Ivy Apps Ltd is not responsible for charges incurred due to the user's failure to implement these safeguards.**
 - **The user acknowledges that the LLMs are constantly evolving, and Ivy Apps Ltd is not responsible for changes in LLM behavior or output quality.**
+- **For enhanced security and to prevent unexpected charges, Ivy Apps Ltd strongly recommends that you create a separate API key specifically for use with PocketVibe. This dedicated API key should have strict usage limits and spending caps configured through your LLM service provider. Avoid using your primary or high-limit API key with PocketVibe.**
 - **You are solely responsible for ensuring the legal, ethical, and safe use of the LLMs, and you agree to indemnify and hold Ivy Apps Ltd harmless from any claims arising from your use of the LLMs.**
 **Ivy Apps Ltd is not liable for any loss, misuse, or leakage of your API key. You use it at your own risk.**
 
