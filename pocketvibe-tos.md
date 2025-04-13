@@ -56,7 +56,7 @@ All purchases are final and **non-refundable** unless required by applicable law
 ## 5. Analytics and Crash Reporting
 
 - We use **Firebase Analytics** and **Firebase Crashlytics** to gather anonymized performance and diagnostic data.  
-- By using the App, you consent to this data collection in accordance with our [Privacy Policy](https://github.com/Ivy-Apps/legal).
+- By using the App, you consent to this data collection in accordance with our [Privacy Policy](https://github.com/Ivy-Apps/legal/pocketvibe-privacy).
 
 ---
 
