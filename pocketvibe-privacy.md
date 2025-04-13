@@ -1,7 +1,7 @@
 # PocketVibe Privacy Policy
 
-**Effective Date:** April 13, 2025  
-**Last Updated:** [Insert Date of Update]
+**Effective Date:** April 14, 2025  
+**Last Updated:** April 14, 2025
 
 Welcome to PocketVibe, an Android app developed and distributed by **Ivy Apps Ltd** ("we", "us", or "our"). We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains what information we collect, how we use it, and the choices you have.
 
