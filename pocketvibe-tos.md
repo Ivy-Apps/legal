@@ -1,7 +1,7 @@
 # PocketVibe Terms of Service
 
-**Effective Date:** April 13, 2025  
-**Last Updated:** April 13, 2025  
+**Effective Date:** April 14, 2025  
+**Last Updated:** April 14, 2025  
 
 Welcome to PocketVibe, developed and distributed by **Ivy Apps Ltd** (“we,” “our,” or “us”), a company registered in Bulgaria. By downloading, accessing, or using PocketVibe ("App"), you agree to these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
